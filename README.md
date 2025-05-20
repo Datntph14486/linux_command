@@ -217,9 +217,3 @@ sysbench cpu --cpu-max-prime=20000 run
 ```
 
 ---
-
-## 9. Xem hiệu năng từ CloudWatch
-
-- Truy cập AWS Console
-- Vào EC2 > Instance của bạn > Tab **Monitoring**
-- Xem biểu đồ **CPUUtilization**
